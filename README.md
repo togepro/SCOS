@@ -1,0 +1,2 @@
+# SCOS
+an android project
