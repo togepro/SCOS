@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">点餐</string>
+
+    <!-- 启动页 -->
+    <string name="toast_welcome">欢迎！</string>
+
+    <!-- 各页面标题 -->
+    <string name="label_order">点餐</string>
+    <string name="label_form">订单</string>
+    <string name="label_account">账户</string>
+    <string name="label_help">帮助</string>
+    <string name="label_custom_order">查看订单</string>
+    <string name="label_food_detail">菜品详情</string>
+
+    <string name="dialog_login">登录中&#8230;</string>
+
+    <string name="notify_new_food_title">新品上架</string>
+    <string name="notify_new_food_content"><xliff:g>%1s</xliff:g> 价格：<xliff:g>%2s</xliff:g>元  热菜</string>
+    <string name="notify_new_food_content_server">菜品数量：<xliff:g>%1d</xliff:g></string>
+    <string name="notify_close">关闭</string>
+
+</resources>

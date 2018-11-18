@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dishes">
+        <item>木须肉</item>
+        <item>清蒸鱼</item>
+        <item>清炒油麦菜</item>
+        <item>木须肉</item>
+        <item>清蒸鱼</item>
+        <item>清炒油麦菜</item>
+        <item>木须肉</item>
+        <item>清蒸鱼</item>
+        <item>清炒油麦菜</item>
+    </string-array>
+</resources>
